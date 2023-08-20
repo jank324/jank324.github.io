@@ -10,6 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+[[main]]
+name = "CV"
+pageRef = "cv"
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
