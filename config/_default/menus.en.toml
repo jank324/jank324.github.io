@@ -15,7 +15,6 @@ name = "CV"
 url = "https://cr-xu.github.io/assets/files/cv_xu.pdf"
 
 [[main]]
-name = "GitHub"
 pre = "github"
 url = "https://github.com/jank324"
 
