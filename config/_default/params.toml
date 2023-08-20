@@ -35,15 +35,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"                                 # valid options: page, profile, hero, card, background, custom
-homepageImage = "imgs/salzburg_stock_photo.jpg" # used in: hero, and card
+layout = "hero"                            # valid options: page, profile, hero, card, background, custom
+homepageImage = "static/imgs/DSC00236.jpg" # used in: hero, and card
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false                    # only used when layout equals background
+layoutBackgroundBlur = false               # only used when layout equals background
 
 [article]
 showDate = true
