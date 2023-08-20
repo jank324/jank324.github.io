@@ -12,7 +12,7 @@
 
 [[main]]
 name = "CV"
-pageRef = "cv"
+url = "https://cr-xu.github.io/assets/files/cv_xu.pdf"
 
 #[[main]]
 #  name = "Blog"
