@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://jank324.github.io/sitemap.xml
