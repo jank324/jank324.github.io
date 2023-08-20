@@ -1,7 +1,7 @@
-baseURL: https://RL4aa.github.io/
-languageCode: en-us
-title: RL4AA Collaboration | Homepage
-theme: PaperMod
+baseURL: https://jank324.github.io/
+languageCode: en-gb
+title: Jan Kaiser | Personal Homepage
+theme: blowfish
 
 params:
   homeInfoParams:
