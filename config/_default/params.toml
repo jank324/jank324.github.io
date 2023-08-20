@@ -17,7 +17,7 @@ enableCodeCopy = false
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "static/imgs/salzburg_stock_photo.jpg" # used as default for background images 
+defaultBackgroundImage = "imgs/salzburg_stock_photo.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -36,7 +36,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile" # valid options: page, profile, hero, card, background, custom
-#homepageImage = "IMAGE.jpg" # used in: hero, and card
+# homepageImage = "IMAGE.jpg" # used in: hero, and card
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
