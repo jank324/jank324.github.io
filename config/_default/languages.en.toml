@@ -48,6 +48,7 @@ links = [
     #     { pinterest = "https://pinterest.com/username" },
     #     { reddit = "https://reddit.com/user/username" },
     { researchgate = "https://www.researchgate.net/profile/Jan-Kaiser-7" },
+    { scholar = "https://scholar.google.com/citations?user=1FcOw9MAAAAJ&hl=en" },
     #     { slack = "https://workspace.url/team/userid" },
     #     { snapchat = "https://snapchat.com/add/username" },
     #     { soundcloud = "https://soundcloud.com/username" },
