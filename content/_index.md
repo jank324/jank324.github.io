@@ -1,6 +1,8 @@
 Hello! 🦦
 
-🚧 This webpage is currently under construction. Please check back later. 🚧
+{{< alert >}}
+**Attention!** 🚧 This webpage is currently under construction. Please check back later. 🚧
+{{< /alert >}}
 
 ## Experience
 
