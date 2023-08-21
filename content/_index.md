@@ -14,7 +14,7 @@ Lorem ipsum ...
 
 ## Projects
 
-Foobar ...
+Any sufficiently advanced technology is indistinguishable from magic.
 
 ## Personal projects
 
