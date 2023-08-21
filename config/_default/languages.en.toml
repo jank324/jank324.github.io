@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Jan Kaiser"
-#   image = "img/blowfish_logo.png"
+image = "img/memoji.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 links = [
