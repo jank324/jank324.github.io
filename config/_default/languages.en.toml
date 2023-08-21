@@ -25,6 +25,7 @@ links = [
     #     { apple = "https://www.apple.com" },
     #     { blogger = "https://username.blogspot.com/" },
     #     { codepen = "https://codepen.io/username" },
+    { desy = "https://ai.desy.de/people/kaiser.html" },
     #     { dev = "https://dev.to/username" },
     #     { discord = "https://discord.gg/invitecode" },
     #     { dribbble = "https://dribbble.com/username" },
