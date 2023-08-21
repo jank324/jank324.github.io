@@ -26,7 +26,7 @@ With html code
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
+{{< timelineItem icon="star" header="Intern" badge="2015 - 2015" subheader="Marquard & Bahls AG" >}}
 With other shortcodes
 {{< gallery >}}
 <img src="gallery/01.jpg" class="grid-w33" />
@@ -45,11 +45,11 @@ With other shortcodes
 
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="header" badge="badge test" subheader="subheader" >}}
+{{< timelineItem icon="github" header="Hamburg University of Technology" badge="2020 - present" subheader="Doctor of Philosophy - PhD" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
+{{< timelineItem icon="code" header="Hamburg University of Technology" badge="2018 - 2020" subheader="Master of Science (M. Sc.), Computer Science" >}}
 With html code
 
 <ul>
@@ -59,7 +59,7 @@ With html code
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
+{{< timelineItem icon="code" header="Hamburg University of Technology" badge="2015 - 2018" subheader="Master of Science (B. Sc.), Computer Science" >}}
 With other shortcodes
 {{< gallery >}}
 <img src="gallery/01.jpg" class="grid-w33" />
