@@ -33,7 +33,7 @@ links = [
     #     { foursquare = "https://foursquare.com/username" },
     { github = "https://github.com/jank324" },
     #     { gitlab = "https://gitlab.com/username" },
-    #     { google = "https://www.google.com/" },
+    { google = "https://scholar.google.com/citations?user=1FcOw9MAAAAJ&hl=en" },
     #     { hashnode = "https://username.hashnode.dev" },
     #     { instagram = "https://instagram.com/username" },
     #     { keybase = "https://keybase.io/username" },
