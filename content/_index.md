@@ -76,4 +76,6 @@ With other shortcodes
 
 {{< github repo="desy-ml/cheetah" >}}
 
+{{< youtube i5G-wUyB3H8 >}}
+
 {{< github repo="jank324/8mm-film-scanner" >}}
