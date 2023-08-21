@@ -12,7 +12,7 @@ I am a doctoral researcher at the [Deutsches Elektronen-Synchrotron DESY](https:
 
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="Doctoral Researcher" badge="2020 - present" subheader="Deutsches Elektronen-Synchrotron DESY" >}}
+{{< timelineItem icon="desy" header="Doctoral Researcher" badge="2020 - present" subheader="Deutsches Elektronen-Synchrotron DESY" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus.
 {{< /timelineItem >}}
 
