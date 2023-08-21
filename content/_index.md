@@ -4,6 +4,10 @@ Hello! 🦦
 **Attention!** 🚧 This webpage is currently under construction. Please check back later. 🚧
 {{< /alert >}}
 
+## About Me
+
+I am a doctoral researcher at the [Deutsches Elektronen-Synchrotron DESY](https://www.desy.de/) in Hamburg, Germany. My research focuses on the development of machine learning algorithms for the analysis of X-ray scattering data. I am a member of the [DESY Machine Learning Group](https://desy-ml.github.io/).
+
 ## Experience
 
 {{< timeline >}}
