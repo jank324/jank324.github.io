@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
 [author]
 name = "Jan Kaiser"
 image = "img/memoji.png"
-#   headline = "I'm only human"
+headline = "Doctoral researcher in at DESY"
 #   bio = "A little bit about you"
 links = [
     { email = "mailto:jan.kaiser.email@googlemail.com" },
