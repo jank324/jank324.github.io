@@ -10,7 +10,7 @@ I am a doctoral researcher with a background in Computer Science and a passion f
 
 ## Publications
 
-{{< article link="/publications/kaiser2023learning" >}}
+{{< article link="https://github.com/jank324/8mm-film-scanner" >}}
 
 - Learning to do vs. learning while doing
 
