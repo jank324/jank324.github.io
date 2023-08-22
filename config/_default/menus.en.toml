@@ -20,7 +20,7 @@ url = "https://github.com/jank324"
 
 [[main]]
 name = "Publications"
-pageRef = "#publications"
+pageRef = "/#publications"
 
 #[[main]]
 #  name = "Blog"
