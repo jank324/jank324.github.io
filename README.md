@@ -17,3 +17,7 @@ Add custom icons as `.svg` files to `assets/icons/`. They can then be used as `{
 ### Linking to static files
 
 Static files such as a resume PDF can be placed in the `static` directory. They can then be linked with `/` as the root of the static directory. For example, you have the following file: `static/resume.pdf`. You can link it as `/resume.pdf`.
+
+## Changes I made to the theme
+
+- Add custom icons
