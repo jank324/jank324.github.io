@@ -11,10 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-pre = "github"
-url = "https://github.com/jank324"
-
-[[main]]
 name = "About Me"
 url = "/#about-me"
 
