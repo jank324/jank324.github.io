@@ -33,19 +33,16 @@ I am a doctoral researcher with a background in Computer Science, currently comp
 Any sufficiently advanced technology is indistinguishable from magic.
 
 - Cheetah
+  {{< github repo="desy-ml/cheetah" >}}
 
 ## Personal projects
 
 I am the the master of my fate, I am the captain of my soul.
 
 - 8mm film scanner
+  {{< youtube i5G-wUyB3H8 >}}
+  {{< github repo="jank324/8mm-film-scanner" >}}
 
 - Shutter speed tester?
 
 - Location finder?
-
-{{< github repo="desy-ml/cheetah" >}}
-
-{{< youtube i5G-wUyB3H8 >}}
-
-{{< github repo="jank324/8mm-film-scanner" >}}
