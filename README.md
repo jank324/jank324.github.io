@@ -22,6 +22,10 @@ Static files such as a resume PDF can be placed in the `static` directory. They 
 
 To make the page simply scroll down to another section on the same page instead of linking to another page, use the `url` field of the menu item. You can link to a markdown header `Section` by setting `url = "#section"`. Spaces are replaced with `-` and all characters are converted to lowercase.
 
+### Buttons open in same or new tab
+
+When creating a button, you can set `target="_blank"` to open the link in a new tab or `target="_self"` to open it in the same tab.
+
 ## Changes I made to the theme
 
 - Add custom icons
