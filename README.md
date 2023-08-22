@@ -18,6 +18,10 @@ Add custom icons as `.svg` files to `assets/icons/`. They can then be used as `{
 
 Static files such as a resume PDF can be placed in the `static` directory. They can then be linked with `/` as the root of the static directory. For example, you have the following file: `static/resume.pdf`. You can link it as `/resume.pdf`.
 
+### Link menu item to lower down location of same page
+
+To make the page simply scroll down to another section on the same page instead of linking to another page, use the `url` field of the menu item. You can link to a markdown header `Section` by setting `url = "#section"`. Spaces are replaced with `-` and all characters are converted to lowercase.
+
 ## Changes I made to the theme
 
 - Add custom icons
