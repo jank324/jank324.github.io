@@ -16,8 +16,8 @@ dateFormat = "2 January 2006"
 [author]
 name = "Jan Kaiser"
 image = "img/memoji.png"
-headline = "Doctoral researcher at Deutsches Elektronen-Synchrotron DESY"
-bio = "Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning."
+headline = "Doctoral researcher in machine learning at Deutsches Elektronen-Synchrotron DESY"
+bio = "Doctoral researcher in machine learning at Deutsches Elektronen-Synchrotron DESY"
 links = [
     { email = "mailto:jan.kaiser.email@googlemail.com" },
     #     { link = "https://jank324.github.io/" },
