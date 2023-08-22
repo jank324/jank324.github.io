@@ -9,3 +9,11 @@ Below I'm collecting pointers on how to do certain things for later reference.
 ### Building the website
 
 Just clone the repository, change what you need to change and push back onto `main`. The website will be built automatically by GitHub my GitHub and is served from the `gh-pages` branch.
+
+### Adding a custom icon
+
+TODO
+
+### Linking to static files
+
+TODO
