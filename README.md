@@ -12,7 +12,7 @@ Just clone the repository, change what you need to change and push back onto `ma
 
 ### Adding a custom icon
 
-TODO
+Add custom icons as `.svg` files to `assets/icons/`. They can then be used as `{{< icon name="icon-name" >}}`. They may also be used for the author links by editing `config/_default/languages.toml`, where under `[author] -> links` you can add `icon-name = "link"`. To get the icon to automatically use the website's colours instead of its own and highlight correctly, find all `fill` properties in the `.svg` file and replace their values with `currentColor`.
 
 ### Linking to static files
 
