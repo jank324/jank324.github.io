@@ -10,6 +10,8 @@ I am a doctoral researcher with a background in Computer Science and a passion f
 
 ## Publications
 
+{{< article link="/publications/kaiser2023learning" >}}
+
 - Learning to do vs. learning while doing
 
 - Lattice-agnostic reinforcement learning for particle accelerator tuning
