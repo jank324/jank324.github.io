@@ -11,10 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "CV"
-url = "/resume_jan_kaiser.pdf"
-
-[[main]]
 pre = "github"
 url = "https://github.com/jank324"
 
