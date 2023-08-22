@@ -10,15 +10,39 @@ I am a doctoral researcher with a background in Computer Science, currently comp
 
 ## Publications
 
--
+- Learning to do vs. learning while doing
+
+- Lattice-agnostic reinforcement learning for particle accelerator tuning
+
+- EuXFEL virtual diagnostics
+
+- Zihan paper
+
+- Learning-based optimisation
+
+- Accelerating linear beam dynamics
+
+- First steps
+
+- designing recurrent neural networks
+
+- Do we need real data?
 
 ## Projects
 
 Any sufficiently advanced technology is indistinguishable from magic.
 
+- Cheetah
+
 ## Personal projects
 
 I am the the master of my fate, I am the captain of my soul.
+
+- 8mm film scanner
+
+- Shutter speed tester?
+
+- Location finder?
 
 ## Experience
 
