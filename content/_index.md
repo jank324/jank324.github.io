@@ -1,4 +1,4 @@
-Hello! 🦦
+Hello, world! 🦦
 
 {{< alert >}}
 **Attention!** 🚧 This webpage is currently under construction. Please check back later. 🚧
@@ -10,7 +10,7 @@ I am a doctoral researcher with a background in Computer Science, currently comp
 
 ## Publications
 
-Lorem ipsum ...
+-
 
 ## Projects
 
