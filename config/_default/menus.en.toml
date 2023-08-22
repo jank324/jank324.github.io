@@ -13,22 +13,27 @@
 [[main]]
 name = "About Me"
 url = "/#about-me"
+weight = 50
 
 [[main]]
 name = "Publications"
 url = "/#publications"
+weight = 40
 
 [[main]]
 name = "Projects"
 url = "/#projects"
+weight = 30
 
 [[main]]
 name = "Personal Projects"
 url = "/#personal-projects"
+weight = 20
 
 [[main]]
 name = "Photography"
 url = "/#photography"
+weight = 10
 
 #[[main]]
 #  name = "Blog"
