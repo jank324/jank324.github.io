@@ -48,3 +48,7 @@ I am the the master of my fate, I am the captain of my soul.
 - Shutter speed tester?
 
 - Location finder?
+
+## Photography
+
+Some photos ...?
