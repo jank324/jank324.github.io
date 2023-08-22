@@ -19,8 +19,24 @@ pre = "github"
 url = "https://github.com/jank324"
 
 [[main]]
+name = "About Me"
+pageRef = "/#about-me"
+
+[[main]]
 name = "Publications"
 pageRef = "/#publications"
+
+[[main]]
+name = "Projects"
+url = "/#projects"
+
+[[main]]
+name = "Personal Projects"
+pageRef = "/#personal-projects"
+
+[[main]]
+name = "Photography"
+pageRef = "/#photography"
 
 #[[main]]
 #  name = "Blog"
