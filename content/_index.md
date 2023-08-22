@@ -32,6 +32,8 @@ I am a doctoral researcher with a background in Computer Science, currently comp
 
 Any sufficiently advanced technology is indistinguishable from magic.
 
+- [RL4AA Collaboration](https://rl4aa.github.io)
+
 - Cheetah
   {{< github repo="desy-ml/cheetah" >}}
 
