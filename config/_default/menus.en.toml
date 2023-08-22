@@ -18,6 +18,10 @@ url = "/resume_jan_kaiser.pdf"
 pre = "github"
 url = "https://github.com/jank324"
 
+[[main]]
+pre = "Publications"
+pageRef = "#publications"
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
