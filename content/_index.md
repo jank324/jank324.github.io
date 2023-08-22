@@ -6,7 +6,7 @@ Hello! 🦦
 
 ## About Me
 
-I am a doctoral researcher at the [Deutsches Elektronen-Synchrotron DESY](https://www.desy.de/) in Hamburg, Germany. My research focuses on the development of machine learning algorithms for the analysis of X-ray scattering data. I am a member of the [DESY Machine Learning Group](https://desy-ml.github.io/).
+I am a doctoral researcher with a background in Computer Science, currently completing my PhD the [Deutsches Elektronen-Synchrotron DESY](https://www.desy.de/) in Hamburg, Germany. My research focuses on the development of machine learning-based algorithms towards the goal of autonomous particle accelerator operations with a strong focus on control and tuning using **reinforcement learning**. My other research interests include **surrogate modelling** and **virtual diagnostics**.
 
 ## Publications
 
