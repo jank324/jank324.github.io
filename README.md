@@ -16,4 +16,4 @@ TODO
 
 ### Linking to static files
 
-TODO
+Static files such as a resume PDF can be placed in the `static` directory. They can then be linked with `/` as the root of the static directory. For example, you have the following file: `static/resume.pdf`. You can link it as `/resume.pdf`.
