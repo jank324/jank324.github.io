@@ -19,7 +19,7 @@ pre = "github"
 url = "https://github.com/jank324"
 
 [[main]]
-pre = "Publications"
+name = "Publications"
 pageRef = "#publications"
 
 #[[main]]
