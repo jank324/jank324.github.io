@@ -6,4 +6,4 @@ draft: false
 
 # Alfa Romeo 1300 GT
 
-![Alfa Romeo 1300 GT](/34185703-1-1440x1080.jpgg)
+![](34185703-1-1440x1080.jpg)
