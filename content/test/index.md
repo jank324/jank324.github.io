@@ -2,7 +2,6 @@
 title: "Alfa Romeo 1300 GT"
 date: 2023-08-23
 draft: false
-showHero: true
 ---
 
 # Alfa Romeo 1300 GT
