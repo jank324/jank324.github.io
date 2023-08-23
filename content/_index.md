@@ -14,7 +14,7 @@ Download my CV
 
 ## Publications
 
-{{< article link="https://github.com/jank324/8mm-film-scanner" >}}
+{{< article link="/test" >}}
 
 - Learning to do vs. learning while doing
 
