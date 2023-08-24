@@ -12,7 +12,7 @@ I am a doctoral researcher with a background in Computer Science and a passion f
 Download my CV
 {{< /button >}}
 
-{{< article link="/docs/test/" >}}
+{{< article link="/test/" >}}
 
 ## Publications
 
