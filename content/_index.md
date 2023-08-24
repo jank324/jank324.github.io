@@ -18,13 +18,13 @@ Download my CV
 
 {{< article link="/publications/kaiser2023learning/" >}}
 
-{{< article link="/publications/xu2023latticeagnostic/ >}}
+{{< article link="/publications/xu2023latticeagnostic/" >}}
 
 - EuXFEL virtual diagnostics
 
 - Zihan paper
 
-{{< article link="/publications/kaiser2022learningbased/ >}}
+{{< article link="/publications/kaiser2022learningbased/" >}}
 
 - Accelerating linear beam dynamics
 
