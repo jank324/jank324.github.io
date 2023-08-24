@@ -1,6 +1,7 @@
 ---
 title: "Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning"
 date: 2023-06-06
+externalUrl: "https://arxiv.org/abs/2306.03739"
 description: "A comparative study of reinforcement learning and Bayesian optimisation for online continuous tuning"
 summary: "A paper"
 tags: []
