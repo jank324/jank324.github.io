@@ -12,9 +12,9 @@ I am a doctoral researcher with a background in Computer Science and a passion f
 Download my CV
 {{< /button >}}
 
-{{< article link="/test/" >}}
-
 ## Publications
+
+{{< article link="/test/" >}}
 
 - Learning to do vs. learning while doing
 
