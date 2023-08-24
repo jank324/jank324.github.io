@@ -16,6 +16,8 @@ Download my CV
 
 {{< article link="/test/" >}}
 
+{{< article link="/publications/kaiser2023learning/" >}}
+
 - Learning to do vs. learning while doing
 
 - Lattice-agnostic reinforcement learning for particle accelerator tuning

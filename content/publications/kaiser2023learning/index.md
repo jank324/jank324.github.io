@@ -1,16 +1,11 @@
 ---
 title: "Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning"
 date: 2023-06-06
+description: "A comparative study of reinforcement learning and Bayesian optimisation for online continuous tuning"
+summary: "A paper"
+tags: []
+type: "publication"
 draft: false
-tags: ["publication", "arXiv", "desy", "kit", "ares", "td3", "simulation-trained", "real-world evaluation"]
-categories: "Publications"
-ShowToc: false
-TocOpen: false
-cover:
-    image: imgs/kaiser2023learning.png
-    alt: "Simplified 3D illustration of the considered section of the ARES particle accelerator."
-    caption: "Simplified 3D illustration of the considered section of the ARES particle accelerator."
-    relative: false
 ---
 
 _**J. Kaiser<sup>1</sup>, C. Xu<sup>2</sup>, A. Eichler<sup>1</sup>, A. Santamaria Garcia<sup>2</sup>, O. Stein<sup>1</sup>, E. Bründermann<sup>2</sup>, W. Kuropka<sup>1</sup>, H. Dinter<sup>1</sup>, F. Mayet<sup>1</sup>, T. Vinatier<sup>1</sup>, F. Burkart<sup>1</sup>, H. Schlarb<sup>1</sup>**_
@@ -25,6 +20,6 @@ Online tuning of real-world plants is a complex optimisation problem that contin
 
 **Read the paper:** [https://arxiv.org/abs/2306.03739](https://arxiv.org/abs/2306.03739)
 
-**Contact:** 
+**Contact:**
 [Jan Kaiser](mailto:jan.kaiser@desy.de)
 [Chenran Xu](mailto:chenran.xu@kit.edu)
