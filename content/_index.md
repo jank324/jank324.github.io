@@ -18,15 +18,13 @@ Download my CV
 
 {{< article link="/publications/kaiser2023learning/" >}}
 
-- Learning to do vs. learning while doing
-
-- Lattice-agnostic reinforcement learning for particle accelerator tuning
+{{< article link="/publications/xu2023latticeagnostic/ >}}
 
 - EuXFEL virtual diagnostics
 
 - Zihan paper
 
-- Learning-based optimisation
+{{< article link="/publications/kaiser2022learningbased/ >}}
 
 - Accelerating linear beam dynamics
 
@@ -40,10 +38,9 @@ Download my CV
 
 Any sufficiently advanced technology is indistinguishable from magic.
 
-- [RL4AA Collaboration](https://rl4aa.github.io)
+{{< article link="/projects/rl4aa-collaboration/" >}}
 
-- Cheetah
-  {{< github repo="desy-ml/cheetah" >}}
+{{< github repo="desy-ml/cheetah" >}}
 
 ## Personal projects
 
