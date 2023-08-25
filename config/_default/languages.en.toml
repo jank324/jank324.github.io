@@ -16,8 +16,8 @@ dateFormat = "2 January 2006"
 [author]
 name = "Jan Kaiser"
 image = "img/IMG_9541_cropped.jpeg"
-headline = "Doctoral researcher in Machine Learning and Optimisation<br/><a href='https://www.desy.de'>Deutsches Elektronen-Synchrotron DESY</a>"
-bio = "Doctoral researcher in Machine Learning and Optimisation<br/><a href='https://www.desy.de'>Deutsches Elektronen-Synchrotron DESY</a>"
+headline = "Doctoral Researcher in Machine Learning and Optimisation<br/><a href='https://www.desy.de'>Deutsches Elektronen-Synchrotron DESY</a>"
+bio = "Doctoral Researcher in Machine Learning and Optimisation<br/><a href='https://www.desy.de'>Deutsches Elektronen-Synchrotron DESY</a>"
 links = [
     { email = "mailto:jan.kaiser.email@googlemail.com" },
     #     { link = "https://jank324.github.io/" },
