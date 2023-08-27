@@ -50,13 +50,14 @@
                         </div>
                         {{ end }}
                     </div>
-                    <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
+                    {{/*  <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>  */}}
                 </div>
             </div>
         </div>
     </div>
 </article>
 <section>
+    {{ .Content | emojify }}
     {{ partial "recent-articles/main.html" . }}
 </section>
 {{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
