@@ -7,10 +7,6 @@ showReadingTime: false
 _build:
   render: "false"
   list: "local"
-# description: "A comparative study of reinforcement learning and Bayesian optimisation for online continuous tuning"
-# tags: []
-# type: "publication"
-# draft: false
 ---
 
 _**J. Kaiser<sup>1</sup>, C. Xu<sup>2</sup>, A. Eichler<sup>1</sup>, A. Santamaria Garcia<sup>2</sup>, O. Stein<sup>1</sup>, E. Bründermann<sup>2</sup>, W. Kuropka<sup>1</sup>, H. Dinter<sup>1</sup>, F. Mayet<sup>1</sup>, T. Vinatier<sup>1</sup>, F. Burkart<sup>1</sup>, H. Schlarb<sup>1</sup>**_
