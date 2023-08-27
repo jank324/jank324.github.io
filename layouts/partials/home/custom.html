@@ -56,8 +56,10 @@
         </div>
     </div>
 </article>
-<section>
+<section class="prose dark:prose-invert">
     {{ .Content | emojify }}
+</section>
+<section>
     {{ partial "recent-articles/main.html" . }}
 </section>
 {{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
