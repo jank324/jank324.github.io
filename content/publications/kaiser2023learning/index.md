@@ -4,9 +4,6 @@ date: 2023-06-06
 externalUrl: "https://arxiv.org/abs/2306.03739"
 summary: "A paper"
 showReadingTime: false
-_build:
-  render: "false"
-  list: "local"
 description: "A comparative study of reinforcement learning and Bayesian optimisation for online continuous tuning"
 tags: []
 type: "publication"
