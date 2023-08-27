@@ -22,5 +22,6 @@ Online tuning of real-world plants is a complex optimisation problem that contin
 **Read the paper:** [https://arxiv.org/abs/2306.03739](https://arxiv.org/abs/2306.03739)
 
 **Contact:**
-[Jan Kaiser](mailto:jan.kaiser@desy.de)
-[Chenran Xu](mailto:chenran.xu@kit.edu)
+
+- [Jan Kaiser](mailto:jan.kaiser@desy.de)
+- [Chenran Xu](mailto:chenran.xu@kit.edu)
