@@ -16,8 +16,6 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
-{{< article link="/test/" >}} <br>
-
 **Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning**](https://arxiv.org/abs/2306.03739). In _arXiv_, 2023.
 
 Chenran Xu, **Jan Kaiser**, Erik Bründermann, Annika Eichler, Anke-Susanne Müller and Andrea Santamaria Garcia. [**Beam Trajectory Control with Lattice-agnostic Reinforcement Learning**](https://www.ipac23.org/preproc/doi/jacow-ipac2023-thpl029/index.html). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
@@ -39,6 +37,8 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 ## Projects
 
 Any sufficiently advanced technology is indistinguishable from magic.
+
+{{< article link="/test/" >}} <br>
 
 {{< article link="/projects/rl4aa-collaboration/" >}} <br>
 
