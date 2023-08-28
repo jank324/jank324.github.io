@@ -14,17 +14,17 @@ Download my CV
 
 ## Publications
 
-{{< article link="/test/" >}}
+{{< article link="/test/" >}} <br>
 
-{{< article link="/publications/kaiser2023learning/" >}}
+{{< article link="/publications/kaiser2023learning/" >}} <br>
 
-{{< article link="/publications/xu2023latticeagnostic/" >}}
+{{< article link="/publications/xu2023latticeagnostic/" >}} <br>
 
 - EuXFEL virtual diagnostics
 
 - Zihan paper
 
-{{< article link="/publications/kaiser2022learningbased/" >}}
+{{< article link="/publications/kaiser2022learningbased/" >}} <br>
 
 - Accelerating linear beam dynamics
 
@@ -38,9 +38,9 @@ Download my CV
 
 Any sufficiently advanced technology is indistinguishable from magic.
 
-{{< article link="/projects/rl4aa-collaboration/" >}}
+{{< article link="/projects/rl4aa-collaboration/" >}} <br>
 
-{{< github repo="desy-ml/cheetah" >}}
+{{< github repo="desy-ml/cheetah" >}} <br>
 
 ## Personal projects
 
