@@ -10,3 +10,5 @@ type: "sample"
 # Alfa Romeo 1300 GT
 
 ![](34185703-1-1440x1080.jpg)
+
+{{< article link="/publications/kaiser2023learning/" >}} <br>
