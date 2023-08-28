@@ -38,11 +38,9 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 Any sufficiently advanced technology is indistinguishable from magic.
 
-{{< article link="/test/" >}} <br>
+{{< article link="/projects/cheetah/" >}} <br>
 
 {{< article link="/projects/rl4aa-collaboration/" >}} <br>
-
-{{< article link="/projects/cheetah/" >}} <br>
 
 {{< github repo="desy-ml/cheetah" >}} <br>
 
@@ -50,7 +48,9 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 I am the the master of my fate, I am the captain of my soul.
 
-{{< article link="/personal-projects/8mm-film-scanner" >}} <br>
+{{< article link="/test/" >}} <br>
+
+{{< article link="/personal-projects/8mm-film-scanner/" >}} <br>
 
 - 8mm film scanner
   {{< youtube i5G-wUyB3H8 >}}
