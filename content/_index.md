@@ -18,7 +18,7 @@ Download my CV
 
 {{< article link="/test/" >}} <br>
 
-**Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning**](https://arxiv.org/abs/2306.03739). In _arXiv_, 2023. ↗
+**Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning**](https://arxiv.org/abs/2306.03739). In _arXiv_, 2023.
 
 {{< publication authors="<b>Jan Kaiser</b>, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb" title="Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning" journal="arXiv" year="2023" url="https://arxiv.org/abs/2306.03739" >}}
 
