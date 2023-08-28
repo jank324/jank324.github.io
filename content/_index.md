@@ -28,8 +28,6 @@ Download my CV
 
 - Accelerating linear beam dynamics
 
-- First steps
-
 {{< publication authors="Annika Eichler, Florian Burkart, <b>Jan Kaiser</b>, Willi Kuropka, Oliver Stein, Chenran Xu, Erik Bründermann and Andrea Santamaria Garcia" title="First Steps Toward an Autonomous Accelerator, a Common Project Between DESY and KIT" journal="Proceedings of the 12th International Particle Accelerator Conference" year="2021" url="https://jacow.org/ipac2021/papers/tupab298.pdf" >}}
 
 - designing recurrent neural networks
