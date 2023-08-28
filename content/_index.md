@@ -53,8 +53,10 @@ I am the the master of my fate, I am the captain of my soul.
 {{< article link="/personal-projects/8mm-film-scanner/" >}} <br>
 
 - 8mm film scanner
-  {{< youtube i5G-wUyB3H8 >}}
-  {{< github repo="jank324/8mm-film-scanner" >}}
+
+{{< youtube i5G-wUyB3H8 >}}
+
+{{< github repo="jank324/8mm-film-scanner" >}}
 
 - Shutter speed tester?
 
