@@ -42,11 +42,15 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 {{< article link="/projects/rl4aa-collaboration/" >}} <br>
 
+{{< article link="/projects/cheetah/" >}} <br>
+
 {{< github repo="desy-ml/cheetah" >}} <br>
 
 ## Personal projects
 
 I am the the master of my fate, I am the captain of my soul.
+
+{{< article link="/personal-projects/8mm-film-scanner" >}} <br>
 
 - 8mm film scanner
   {{< youtube i5G-wUyB3H8 >}}
