@@ -14,7 +14,7 @@ Download my CV
 
 ## Publications
 
-{{< publication authors="Jan Kaiser, Oliver Stein and Annika Eichler" title="Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training" journal="Proceedings of the 39th International Conference on Machine Learning (ICML)" year="2022" url="https://proceedings.mlr.press/v162/kaiser22a.html" >}}
+{{< publication authors="<b>Jan Kaiser</b>, Oliver Stein and Annika Eichler" title="Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training" journal="Proceedings of the 39th International Conference on Machine Learning (ICML)" year="2022" url="https://proceedings.mlr.press/v162/kaiser22a.html" >}}
 
 {{< article link="/test/" >}} <br>
 
