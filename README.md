@@ -29,3 +29,5 @@ When creating a button, you can set `target="_blank"` to open the link in a new 
 ## Changes I made to the theme
 
 - Add custom icons
+
+- Add `"custom"` homepage layout as modified copy of `"background"` layout
