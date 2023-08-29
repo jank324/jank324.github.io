@@ -88,7 +88,7 @@ showCards = true                   # Borders around article links
 groupByYear = true
 cardView = false
 cardViewScreenWidth = false
-constrainItemsWidth = true
+constrainItemsWidth = false
 
 [sitemap]
 excludedKinds = ["taxonomy", "term"]
