@@ -38,31 +38,19 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 ## Projects
 
-Any sufficiently advanced technology is indistinguishable from magic.
-
 {{< article link="/projects/cheetah/" >}} <br>
 
 {{< article link="/projects/rl4aa-collaboration/" >}} <br>
 
-{{< github repo="desy-ml/cheetah" >}} <br>
-
 ## Personal projects
-
-I am the the master of my fate, I am the captain of my soul.
-
-{{< article link="/test/" >}} <br>
 
 {{< article link="/personal-projects/8mm-film-scanner/" >}} <br>
 
-- 8mm film scanner
+{{< article link="/test/" >}} <br>
 
-{{< youtube i5G-wUyB3H8 >}}
+Shutter speed tester?
 
-{{< github repo="jank324/8mm-film-scanner" >}}
-
-- Shutter speed tester?
-
-- Location finder?
+Location finder?
 
 ## Photography
 
