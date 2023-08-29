@@ -47,12 +47,15 @@
                         </div>
                         {{ end }}
                     </div>
-                    <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
+                    {{/*  <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>  */}}
                 </div>
             </div>
         </div>
     </div>
 </article>
+<section class="max-w-full prose dark:prose-invert">
+    {{ .Content | emojify }}
+</section>
 <section>
     {{ partial "recent-articles/main.html" . }}
 </section>
