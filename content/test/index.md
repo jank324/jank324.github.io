@@ -7,7 +7,7 @@ tags: ["test", "car"]
 type: "sample"
 ---
 
-# Alfa Romeo 1300 GT
+A classic car with style!
 
 ![](34185703-1-1440x1080.jpg)
 
