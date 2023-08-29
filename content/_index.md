@@ -36,6 +36,12 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 ## Featured talks and presentations
 
+[**Reinforcement Learning Tutorial: Application to an Accelerator Problem**](https://indico.scc.kit.edu/event/3280/overview). In _RL4AA'23_, Karlsruhe, Germany, 2023.
+
+[**Reinforcement Learning for the Optimization of Particle Accelerators**](https://www.mle-days.hamburg/2022_school/use-case-desy-ii.html). In _Machine Learning in Engineering Summer School_, Hamburg, Germany, 2022.
+
+[**Reinforcement learning for Particle Accelerators**](https://indico.desy.de/event/35272/). In _MT ARD ST3 pre-meeting Machine Learning Workshop_, Berlin, Germany, 2022.
+
 ## Projects
 
 {{< article link="/projects/cheetah/" >}} <br>
