@@ -3,7 +3,7 @@ title: "Alfa Romeo 1300 GT"
 date: 2023-08-23
 description: "A test page showing a classic car"
 summary: "Cool car 🚗"
-tags: ["test", "car"]
+tags: ["Test", "Car"]
 type: "sample"
 ---
 
