@@ -23,7 +23,7 @@ weight = 20
 [[main]]
 name = "Featured talks"
 url = "/#featured-talks"
-weight = 20
+weight = 25
 
 [[main]]
 name = "Projects"
