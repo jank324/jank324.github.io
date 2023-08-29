@@ -30,7 +30,7 @@ When creating a button, you can set `target="_blank"` to open the link in a new 
 
 - Add custom icons
 
-- Add `"custom"` homepage layout as modified copy of `"background"` layout
+- Add `"custom"` homepage layout as modified copy of `"background"` and `"hero"` layouts
 
 ## Make your own personal website based on this one
 
