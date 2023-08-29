@@ -1,8 +1,8 @@
-Hello, world! 🦦
+<!-- Hello, world! 🦦 -->
 
-{{< alert >}}
+<!-- {{< alert >}}
 **Attention!** 🚧 This webpage is currently under construction. Please check back later. 🚧
-{{< /alert >}}
+{{< /alert >}} -->
 
 ## About Me
 
@@ -54,9 +54,9 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 {{< article link="/personal-projects/shutter-speed-tester/" >}} <br>
 
-{{< article link="/test/" >}} <br>
+<!-- {{< article link="/test/" >}} <br> -->
 
-Location finder?
+<!-- Location finder? -->
 
 <!-- ## Photography
 
