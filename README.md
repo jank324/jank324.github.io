@@ -51,6 +51,8 @@ When creating a button, you can set `target="_blank"` to open the link in a new 
 
 - Change (or remove) the background image. In `config/_default/params.toml`, change `homepage.homepageImage` to point to an image file placed in `assets/img/` or comment out the line to remove the background image and use a plain background colour according to your colour scheme.
 - Change the colour scheme in `config/_default/params.toml` using the `colorScheme` property. Available colour schemes are shown at https://blowfish.page/docs/getting-started/#colour-schemes.
+- Choose a look for the header menu bar in `config/_default/params.toml` using the `header.layout` property. Available options are `"basic"`, `"fixed"`, `"fixed-fill"` and `"fixed-fill-blur"`.
+- Choose a homepage layout by changing `homepage.layout` in `config/_default/params.toml`. Blowfish offers a bunch of them, but if you are planning to stick to the single page CV-type homepage layout, you should choose one of `"page"`, `"custom-background"` and `"custom-hero"`.
 
 5. Hope that I didn't forget anything. 😄
 
