@@ -34,7 +34,7 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 **Jan Kaiser**, Kai Bavendiek and Sibylle Schupp. [**Do We Need Real Data? - Testing and Training Algorithms with Artificial Geolocation Data**](https://dl.gi.de/items/069179cb-974f-4148-b81b-e16f4612ac4c). In _INFORMATIK 2019: 50 Jahre Gesellschaft für Informatik – Informatik für Gesellschaft_, 2019.
 
-## Featured talks and presentations
+## Featured talks
 
 [**Reinforcement Learning Tutorial: Application to an Accelerator Problem**](https://indico.scc.kit.edu/event/3280/overview). In _RL4AA'23_, Karlsruhe, Germany, 2023.
 
