@@ -44,15 +44,15 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 ## Projects
 
-{{< article link="/projects/cheetah/" >}} <br>
+{{< article link="/projects/cheetah/" >}}
 
-{{< article link="/projects/rl4aa-collaboration/" >}} <br>
+{{< article link="/projects/rl4aa-collaboration/" >}}
 
 ## Personal projects
 
-{{< article link="/personal-projects/8mm-film-scanner/" >}} <br>
+{{< article link="/personal-projects/8mm-film-scanner/" >}}
 
-{{< article link="/personal-projects/shutter-speed-tester/" >}} <br>
+{{< article link="/personal-projects/shutter-speed-tester/" >}}
 
 <!-- {{< article link="/test/" >}} <br> -->
 
