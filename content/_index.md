@@ -46,9 +46,9 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 {{< article link="/personal-projects/8mm-film-scanner/" >}} <br>
 
-{{< article link="/test/" >}} <br>
+{{< article link="/personal-projects/shutter-speed-tester/" >}} <br>
 
-Shutter speed tester?
+{{< article link="/test/" >}} <br>
 
 Location finder?
 
