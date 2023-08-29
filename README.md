@@ -31,3 +31,15 @@ When creating a button, you can set `target="_blank"` to open the link in a new 
 - Add custom icons
 
 - Add `"custom"` homepage layout as modified copy of `"background"` layout
+
+## Make your own personal website based on this one
+
+1. Fork this repository
+
+2. Change the repository name to `your-username.github.io`
+
+3. Make your own head
+
+4. Change the content
+
+5. Make it look your own
