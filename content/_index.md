@@ -52,7 +52,7 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 Location finder?
 
-## Photography
+<!-- ## Photography
 
 {{< gallery >}}
 <img src="gallery/01.jpg" class="grid-w33" />
@@ -62,4 +62,4 @@ Location finder?
 <img src="gallery/05.jpg" class="grid-w33" />
 <img src="gallery/06.jpg" class="grid-w33" />
 <img src="gallery/07.jpg" class="grid-w33" />
-{{< /gallery >}}
+{{< /gallery >}} -->
