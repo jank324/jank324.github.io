@@ -18,9 +18,9 @@ Download my CV
 
 **Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning**](https://arxiv.org/abs/2306.03739). In _arXiv_, 2023.
 
-Chenran Xu, **Jan Kaiser**, Erik Bründermann, Annika Eichler, Anke-Susanne Müller and Andrea Santamaria Garcia. [**Beam Trajectory Control with Lattice-agnostic Reinforcement Learning**](https://www.ipac23.org/preproc/doi/jacow-ipac2023-thpl029/index.html). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
+Chenran Xu, **Jan Kaiser**, Erik Bründermann, Annika Eichler, Anke-Susanne Müller and Andrea Santamaria Garcia. [**Beam Trajectory Control with Lattice-agnostic Reinforcement Learning**](https://doi.org/10.18429/JACoW-IPAC2023-THPL029). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
 
-**Jan Kaiser**, Annika Eichler, Sergey Tomin and Zihan Zhu. [**Machine Learning for Combined Scalar and Spectral Longitudinal Phase Space Reconstruction**](https://www.ipac23.org/preproc/doi/jacow-ipac2023-thpl019/index.html). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
+**Jan Kaiser**, Annika Eichler, Sergey Tomin and Zihan Zhu. [**Machine Learning for Combined Scalar and Spectral Longitudinal Phase Space Reconstruction**](https://doi.org/10.18429/JACoW-IPAC2023-THPL019). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
 
 Zihan Zhu, Sergey Tomin and **Jan Kaiser**. [**Application of Machine Learning in Longitudinal Phase Space Prediction at the European XFEL**](https://indico.jacow.org/event/44/contributions/545/editing/paper/1000/3006/WEP12.pdf). In _FEL2022_, 2022.
 
