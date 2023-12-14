@@ -16,7 +16,7 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
-Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Xiaobiao Huang, Daniel Ratner, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Annika Eichler, Jannis O. Lubsen, Natalie M. Isenberg, Yuan Gao, Nikita Kuklev, Jose Martinez, Brahim Mustapha, Verena Kain, Weijian Lin, Simone Maria Liuzzo, Jason St. John, Matthew J. V. Streeter, Remi Lehe and Willie Neiswanger. [**Bayesian Optimization Algorithms for Accelerator Physics**](https://arxiv.org/abs/2312.05667). In _arXiv_, 2023.
+Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Xiaobiao Huang, Daniel Ratner, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Annika Eichler, Jannis O. Lübsen, Natalie M. Isenberg, Yuan Gao, Nikita Kuklev, Jose Martinez, Brahim Mustapha, Verena Kain, Weijian Lin, Simone Maria Liuzzo, Jason St. John, Matthew J. V. Streeter, Remi Lehe and Willie Neiswanger. [**Bayesian Optimization Algorithms for Accelerator Physics**](https://arxiv.org/abs/2312.05667). In _arXiv_, 2023.
 
 **Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning**](https://arxiv.org/abs/2306.03739). In _arXiv_, 2023.
 
