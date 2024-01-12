@@ -16,7 +16,7 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
-**Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garica. [**Cheetah: Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://arxiv.org/abs/2401.05815). In _arXiv_, 2024.
+**Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Cheetah: Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://arxiv.org/abs/2401.05815). In _arXiv_, 2024.
 
 Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Xiaobiao Huang, Daniel Ratner, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Annika Eichler, Jannis O. Lübsen, Natalie M. Isenberg, Yuan Gao, Nikita Kuklev, Jose Martinez, Brahim Mustapha, Verena Kain, Weijian Lin, Simone Maria Liuzzo, Jason St. John, Matthew J. V. Streeter, Remi Lehe and Willie Neiswanger. [**Bayesian Optimization Algorithms for Accelerator Physics**](https://arxiv.org/abs/2312.05667). In _arXiv_, 2023.
 
