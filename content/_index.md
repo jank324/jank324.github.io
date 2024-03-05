@@ -40,6 +40,8 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 ## Featured talks
 
+[**Applying Reinforcement Learning to Particle Accelerators: An Introduction**](https://www.indico.kr/event/47/contributions/545/). In _4th ICFA Beam Dynamics Mini-Workshop on Machine Learning Applications for Particle Accelerators_, Gyeongju, South Korea, 2024.
+
 [**Large Language Models for Particle Accelerator Tuning**](https://indico.desy.de/event/38849/contributions/162132/). In _1st Large Language Models in Physics Symposium (LIPS)_, Hamburg, Germany, 2024.
 
 [**Reinforcement Learning Tutorial: Application to an Accelerator Problem**](https://indico.scc.kit.edu/event/3280/overview). In _1st Collaboration Workshop on Reinforcement Learning for Autonomous Accelerators (RL4AA'23)_, Karlsruhe, Germany, 2023.
