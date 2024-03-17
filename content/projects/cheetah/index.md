@@ -6,7 +6,7 @@ description: "A comparative study of reinforcement learning and Bayesian optimis
 summary: "Fast particle accelerator optics simulation built on top of PyTorch for reinforcement learning and optimisation applications, providing features like unmatched execution speeds, GPU acceleration and automatic differentiation."
 tags:
   [
-    "Differentiable Simulation",
+    "Differentiable Simulations",
     "Particle Accelerators",
     "Machine Learning",
     "PyTorch",
