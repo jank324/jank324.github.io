@@ -16,6 +16,8 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+Sergey Tomin, **Jan Kaiser**, Nils Maris Lockmann, Torsten Wohlenberg and Igor Zagorodnov. [**Undulator linear taper control at the European X-Ray Free-Electron Laser facility**](https://doi.org/10.1103/PhysRevAccelBeams.27.042801). In _Physical Review Accelerators and Beams_, 2024.
+
 **Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Cheetah: Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://arxiv.org/abs/2401.05815). In _arXiv_, 2024.
 
 Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Xiaobiao Huang, Daniel Ratner, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Annika Eichler, Jannis O. Lübsen, Natalie M. Isenberg, Yuan Gao, Nikita Kuklev, Jose Martinez, Brahim Mustapha, Verena Kain, Weijian Lin, Simone Maria Liuzzo, Jason St. John, Matthew J. V. Streeter, Remi Lehe and Willie Neiswanger. [**Bayesian Optimization Algorithms for Accelerator Physics**](https://arxiv.org/abs/2312.05667). In _arXiv_, 2023.
