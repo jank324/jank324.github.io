@@ -16,6 +16,8 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+**Jan Kaiser**, Annika Eichler and Anne Lauscher. [**Large Language Models for Human-Machine Collaborative Particle Accelerator Tuning through Natural Language**](https://arxiv.org/abs/2405.08888). In _arXiv_, 2024.
+
 Sergey Tomin, **Jan Kaiser**, Nils Maris Lockmann, Torsten Wohlenberg and Igor Zagorodnov. [**Undulator Linear Taper Control at the European X-Ray Free-Electron Laser Facility**](https://doi.org/10.1103/PhysRevAccelBeams.27.042801). In _Physical Review Accelerators and Beams_, 2024.
 
 **Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Cheetah: Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://arxiv.org/abs/2401.05815). In _arXiv_, 2024.
