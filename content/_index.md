@@ -16,6 +16,8 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+**Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://doi.org/10.1103/PhysRevAccelBeams.27.054601). In _Physical Review Accelerators and Beams_, 2024.
+
 Andrea Santamaria Garcia, Luca Scomparin, Chenran Xu, Simon Hirlaender, Sabrina Pochaba, Annika Eichler and **Jan Kaiser**. [**The Reinforcement Learning for Autonomous Accelerators Collaboration**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-tups62/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
 
 Simon Hirlaender, Lukas Lamminger, Sabrina Pochaba, **Jan Kaiser**, Chenran Xu, Andrea Santamaria Garcia, Luca Scomparin and Verena Kain. [**Towards Few-Shot Reinforcement Learning in Particle Accelerator Control**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-tups60/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
