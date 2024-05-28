@@ -16,6 +16,12 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+Andrea Santamaria Garcia, Luca Scomparin, Chenran Xu, Simon Hirlaender Sabrina Pochaba, Annika Eichler and **Jan Kaiser**. [**The Reinforcement Learning for Autonomous Accelerators Collaboration**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-tups62/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
+
+Simon Hirlaender, Lukas Lamminger, Sabrina Pochaba, **Jan Kaiser**, Chenran Xu, Andrea Santamaria Garcia, Luca Scomparin and Verena Kain. [**Towards Few-Shot Reinforcement Learning in Particle Accelerator Control**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-tups60/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
+
+Antonin Sulc, Gregor Hartmann, Jenefer Maldonado, Verena Kain, Florian Rehm, Annika Eichler, **Jan Kaiser**, Tim Wilksen, Frank Mayet, Raimund Kammering, Henrik Tuennermann, Jason St. John, Hayden Hoschouer, Kyle J. Hazelwood, Thorsten Hellert, Daniel Ratner, Wan-Lin Hu and Alex Bien. [**Towards Unlocking Insights from Logbooks Using AI**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-thpr37/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
+
 **Jan Kaiser**, Annika Eichler and Anne Lauscher. [**Large Language Models for Human-Machine Collaborative Particle Accelerator Tuning through Natural Language**](https://arxiv.org/abs/2405.08888). In _arXiv_, 2024.
 
 Sergey Tomin, **Jan Kaiser**, Nils Maris Lockmann, Torsten Wohlenberg and Igor Zagorodnov. [**Undulator Linear Taper Control at the European X-Ray Free-Electron Laser Facility**](https://doi.org/10.1103/PhysRevAccelBeams.27.042801). In _Physical Review Accelerators and Beams_, 2024.
