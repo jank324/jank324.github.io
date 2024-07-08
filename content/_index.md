@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a doctoral researcher with a background in Computer Science and a passion for AI, currently completing my PhD at [Deutsches Elektronen-Synchrotron DESY](https://www.desy.de/) in Hamburg, Germany. My research focuses on the development of machine learning-based algorithms towards the goal of autonomous particle accelerator operations with a strong focus on control and tuning using **reinforcement learning**. My other research interests include **surrogate modelling** and **virtual diagnostics** using a variety of **supervised learning** methods.
+I am a doctoral researcher with a background in Computer Science and a passion for AI, currently completing my PhD at [Deutsches Elektronen-Synchrotron DESY](https://www.desy.de/) in Hamburg, Germany. My research focuses on the development of machine learning-based algorithms towards the goal of autonomous particle accelerator operations with a strong focus on control and tuning using **reinforcement learning** and **differentiable simulations**. My other research interests include **surrogate modelling** and **virtual diagnostics** using a variety of **supervised learning** methods.
 
 {{< button href="/resume_jan_kaiser.pdf" target="_blank" >}}
 Download my CV
