@@ -16,6 +16,10 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+Simon Hirlaender, Sabrina Pochaba, Lamminger Lukas, Andrea Santamaria Garcia, Chenran Xu, Jan Kaiser, Annika Eichler and Verena Kain . [**Deep Meta Reinforcement Learning for Rapid Adaptation In Linear Markov Decision Processes: Applications to CERN’s AWAKE Project**](https://doi.org/10.1007/978-3-031-65993-5_21). In _Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing_, 2024.
+
+Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Fuhao Ji, Xiaobiao Huang, Daniel Ratner, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Angel Ferran Pousa, Annika Eichler, Jannis O. Lübsen, Natalie M. Isenberg, Yuan Gao, Nikita Kuklev, Jose Martinez, Brahim Mustapha, Verena Kain, Christopher Mayes, Weijian Lin, Simone Maria Liuzzo, Jason St. John, Matthew J. V. Streeter, Remi Lehe and Willie Neiswanger. [**Bayesian Optimization Algorithms for Accelerator Physics**](https://doi.org/10.1103/PhysRevAccelBeams.27.084801). In _Physical Review Accelerators and Beams_, 2024.
+
 **Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Reinforcement Learning-trained Optimisers and Bayesian Optimisation for Online Particle Accelerator Tuning**](https://doi.org/10.1038/s41598-024-66263-y). In _Scientific Reports_, 2024.
 
 **Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://doi.org/10.1103/PhysRevAccelBeams.27.054601). In _Physical Review Accelerators and Beams_, 2024.
