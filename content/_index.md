@@ -24,7 +24,7 @@ Ryan Roussel, Auralee L. Edelen, Tobias Boltz, Dylan Kennedy, Zhe Zhang, Fuhao J
 
 **Jan Kaiser**, Chenran Xu, Annika Eichler, Andrea Santamaria Garcia, Oliver Stein, Erik Bründermann, Willi Kuropka, Hannes Dinter, Frank Mayet, Thomas Vinatier, Florian Burkart and Holger Schlarb. [**Reinforcement Learning-trained Optimisers and Bayesian Optimisation for Online Particle Accelerator Tuning**](https://doi.org/10.1038/s41598-024-66263-y). In _Scientific Reports_, 2024.
 
-**Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garica. [**Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://doi.org/10.1103/PhysRevAccelBeams.27.054601). In _Physical Review Accelerators and Beams_, 2024.
+**Jan Kaiser**, Chenran Xu, Annika Eichler and Andrea Santamaria Garcia. [**Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://doi.org/10.1103/PhysRevAccelBeams.27.054601). In _Physical Review Accelerators and Beams_, 2024.
 
 Andrea Santamaria Garcia, Luca Scomparin, Chenran Xu, Simon Hirlaender, Sabrina Pochaba, Annika Eichler and **Jan Kaiser**. [**The Reinforcement Learning for Autonomous Accelerators Collaboration**](https://www.jacow.org/ipac2024/doi/jacow-ipac2024-tups62/index.html). In _15th International Particle Accelerator Conference (IPAC)_, 2024.
 
