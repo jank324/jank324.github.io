@@ -16,6 +16,8 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+**Jan Kaiser**, Anne Lauscher and Annika Eichler. [**Large language models for human-machine collaborative particle accelerator tuning through natural language**](https://doi.org/10.1126/sciadv.adr4173). In _Science Advances_, 2025.
+
 Ryan Roussel, Grégoire Charleux, Auralee Edelen, Annika Eichler, Juan Pablo Gonzalez-Aguilera, Axel Huebl, **Jan Kaiser**, Remi Lehe, Andrea Santamaria Garcia and Chenran Xu. [**Advancements in Backwards Differentiable Beam Dynamics Simulations for Accelerator Design, Model Calibration, and Machine Learning**](https://meow.elettra.eu/71/doi/jacow-linac2024-thpb068/index.html). In _32nd Linear Accelerator Conference (LINAC2024)_, 2024. <!-- https://doi.org/10.18429/JACoW-LINAC2024-THPB068 -->
 
 Simon Hirlaender, Sabrina Pochaba, Lamminger Lukas, Andrea Santamaria Garcia, Chenran Xu, **Jan Kaiser**, Annika Eichler and Verena Kain. [**Deep Meta Reinforcement Learning for Rapid Adaptation In Linear Markov Decision Processes: Applications to CERN’s AWAKE Project**](https://doi.org/10.1007/978-3-031-65993-5_21). In _Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing_, 2024.
