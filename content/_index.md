@@ -62,6 +62,8 @@ Fin Hendrik Bahnsen, **Jan Kaiser** and Görschwin Fey. [**Designing Recurrent N
 
 ## Featured talks
 
+[**Differentiable Simulations Cheetah Tutorial MaLAPA 2025**](https://github.com/MALAPA-Collab/cheetah-tutorial-2025). In _5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators_, CERN, Geneva, Switzerland, 2025.
+
 [**Cheetah: Bridging the Gap Between Machine Learning and Particle Accelerator Physics with High-Speed, Differentiable Simulations**](https://indico.cern.ch/event/1380163/contributions/5988019/). In _Fourth MODE Workshop on Differentiable Programming for Experiment Design_, Valencia, Spain, 2024.
 
 [**Cheetah – A High-speed Differentiable Beam Dynamics Simulation for Machine Learning Applications**](https://www.indico.kr/event/47/contributions/521/). In _4th ICFA Beam Dynamics Mini-Workshop on Machine Learning Applications for Particle Accelerators_, Gyeongju, South Korea, 2024.
