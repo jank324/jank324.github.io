@@ -50,7 +50,7 @@ Chenran Xu, **Jan Kaiser**, Erik Bründermann, Annika Eichler, Anke-Susanne Mül
 
 **Jan Kaiser**, Annika Eichler, Sergey Tomin and Zihan Zhu. [**Machine Learning for Combined Scalar and Spectral Longitudinal Phase Space Reconstruction**](https://doi.org/10.18429/JACoW-IPAC2023-THPL019). In _14th International Particle Accelerator Conference (IPAC)_, 2023.
 
-Zihan Zhu, Sergey Tomin and **Jan Kaiser**. [**Application of Machine Learning in Longitudinal Phase Space Prediction at the European XFEL**](https://indico.jacow.org/event/44/contributions/545/editing/paper/1000/3006/WEP12.pdf). In _FEL2022_, 2022.
+Zihan Zhu, Sergey Tomin and **Jan Kaiser**. [**Application of Machine Learning in Longitudinal Phase Space Prediction at the European XFEL**](https://doi.org/10.18429/jacow-fel2022-wep12). In _FEL2022_, 2022.
 
 **Jan Kaiser**, Oliver Stein and Annika Eichler. [**Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training**](https://proceedings.mlr.press/v162/kaiser22a.html). In _39th International Conference on Machine Learning (ICML)_, 2022.
 
