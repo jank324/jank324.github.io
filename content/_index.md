@@ -16,6 +16,12 @@ Download my CV
 
 <!-- {{< publication authors="" title="" journal="" year="" url="" >}} -->
 
+Axel Huebl, Chad Mitchell, Remi Lehe, Grégoire Charleux, Andrew Myers, Wei Zhang, Ji Qiang, Jean-Luc Vay, **Jan Kaiser**, Christian Hespe, Juan Pablo Gonzalez-Aguilera, Chenran Xu, Andrea Santamaria Garcia, Ryan Roussel, Auralee L. Edelen and William S. Moses. [**Towards Differentiable Beam Dynamics Modeling in BLAST/ImpactX**](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/doi/jacow-napac2025-tup101/index.html). In _North American Particle Accelerator Conference (NAPAC2025)_, 2025.
+
+Andrea Santamaria Garcia, Chenran Xu, Annika Eichler, **Jan Kaiser** and Simon Hirlaender. [**Efficient Data-driven Model Predictive Control for Online Accelerator Tuning**](https://doi.org/10.18429/JACoW-IPAC2025-THPM116). In _16th International Particle Accelerator Conference (IPAC)_, 2025.
+
+Chenran Xu, **Jan Kaiser**, Annika Eichler, Christian Hespe, Borja Rodriguez Mateos and Simon Hirlaender. [**Reinforcement Learning in Particle Accelerators**](https://doi.org/10.18429/JACoW-IPAC2025-THYD1). In _16th International Particle Accelerator Conference (IPAC)_, 2025.
+
 Christian Hespe, **Jan Kaiser**, Jannis Lübsen, Frank Mayet, Matthias Scholz and Annika Eichler. [**Data-driven Feedback Optimization for Particle Accelerator Application**](https://doi.org/10.1515/auto-2024-0170). In _at - Automatisierungstechnik_, 2025.
 
 **Jan Kaiser**, Anne Lauscher and Annika Eichler. [**Large Language Models for Human-Machine Collaborative Particle Accelerator Tuning through Natural Language**](https://doi.org/10.1126/sciadv.adr4173). In _Science Advances_, 2025.
